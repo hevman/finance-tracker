@@ -4,7 +4,7 @@
   "description": "A personal finance tracker CLI supporting SQLite, PostgreSQL, MySQL and MSSQL.",
   "main": "dist/index.js",
   "bin": {
-    "finance": "./dist/cli.js"
+    "finance": "dist/cli.js"
   },
   "scripts": {
     "build": "tsc",
